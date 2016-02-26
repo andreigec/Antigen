@@ -1,6 +1,6 @@
 Antigen
 =======
-Antigen is a top down plane shooter.
+Antigen is a top down plane shooter game.
 1 to spawn an enemy
 3 to give 2000 credits
 4 to open the shop
